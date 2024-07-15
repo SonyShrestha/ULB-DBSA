@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  complex.c
+C:\Program Files\PostgreSQL\16\include\server\libpq\pqformat.h(116,10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\PostgreSQL\16\include\server\libpq\pqformat.h(111,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\ULB\Database Systems Architecture\Exercise\Exercise3\complex-template\complex.c(214,3): warning C4047: 'function': 'int64' differs in levels of indirection from 'Complex *'
+C:\ULB\Database Systems Architecture\Exercise\Exercise3\complex-template\complex.c(214,3): warning C4024: 'Int64GetDatum': different types for formal and actual parameter 1
+C:\ULB\Database Systems Architecture\Exercise\Exercise3\complex-template\complex.c(587): warning C4715: 'complex_cmp_internal': not all control paths return a value
+     Creating library C:\ULB\Database Systems Architecture\Exercise\Exercise3\complex-template\output\Project1.lib and object C:\ULB\Database Systems Architecture\Exercise\Exercise3\complex-template\output\Project1.exp
+  Project1.vcxproj -> C:\ULB\Database Systems Architecture\Exercise\Exercise3\complex-template\output\Project1.dll
